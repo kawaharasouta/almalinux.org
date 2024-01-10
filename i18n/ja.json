@@ -401,7 +401,7 @@
     "AlmaLinux OVAL Wiki Page": "AlmaLinux OVAL Wiki Page",
     "The Software Bill of Materials (SBOM) provides a comprehensive list of third-party and open-source components in a codebase, including version numbers, licensing information, and potential vulnerabilities.": "The Software Bill of Materials (SBOM) provides a comprehensive list of third-party and open-source components in a codebase, including version numbers, licensing information, and potential vulnerabilities.",
     "AlmaLinux Build System has implemented SBOM into its pipeline for security purposes, such as tracing the build process, making it more secure, and reducing the risk of data corruption. ": "AlmaLinux Build System has implemented SBOM into its pipeline for security purposes, such as tracing the build process, making it more secure, and reducing the risk of data corruption. ",
-    "about SBOM and CAS integration with AlmaLinux.": "about SBOM and CAS integration with AlmaLinux.",
+    "about SBOM and immudb integration with AlmaLinux.": "about SBOM and immudb integration with AlmaLinux.",
     "AlmaLinux OS also provides ": "AlmaLinux OS also provides ",
     "AlmaLinux SBOM User Guide": "AlmaLinux SBOM User Guide",
     "AlmaLinux OS provides a set of security features: Errata, GPG keys, Mailing Lists, OpenSCAP, OVAL, SBOM": "AlmaLinux OS provides a set of security features: Errata, GPG keys, Mailing Lists, OpenSCAP, OVAL, SBOM",

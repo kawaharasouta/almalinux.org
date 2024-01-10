@@ -425,7 +425,7 @@
     "AlmaLinux OS also has the availability of the CIS Benchmark.": "AlmaLinux OS también dispone de CIS Benchmark.",
     "The Open Vulnerability and Assessment Language (OVAL), offers publicly accessible security information. This includes AlmaLinux OS 8 and 9, which have available public OVAL streams.": "El lenguaje abierto de evaluación y vulnerabilidad (OVAL) ofrece información de seguridad de acceso público. Esto incluye AlmaLinux OS 8 y 9, que tienen flujos públicos disponibles.",
     "You can find more about OVAL Streams on the ": "Puede encontrar más información sobre OVAL Streams en la página ",
-    "about SBOM and CAS integration with AlmaLinux.": "sobre la integración de SBOM y CAS con AlmaLinux.",
+    "about SBOM and immudb integration with AlmaLinux.": "",
     "AlmaLinux OS also provides ": "AlmaLinux OS también ofrece ",
     "AlmaLinux OVAL Wiki Page": "wiki de AlmaLinux OVAL",
     "AlmaLinux SBOM User Guide": "guía del usuario para AlmaLinux SBOM",

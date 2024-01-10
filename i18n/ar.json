@@ -431,7 +431,7 @@
     "The AlmaLinux OS Foundation is a 501(c)(6) that was founded in March of 2021 to own and manage the AlmaLinux OS project. We have been involving the community since the beginning, and the governing board is chosen by members of the foundation. At all times, AlmaLinux OS will be free and open.": "مؤسسة AlmaLinux OS هي مؤسسة 501(c)(6) تأسست في مارس 2021 لامتلاك وإدارة مشروع AlmaLinux OS. لقد قمنا بإشراك المجتمع منذ البداية، ويتم اختيار مجلس الإدارة من قبل أعضاء المؤسسة. سيكون نظام AlmaLinux OS مجانيًا ومفتوحًا في جميع الأوقات.",
     "(AlmaLinux and MiracleLinux Developer - Matthias Kruk)": "(مطور AlmaLinux وMiracleLinux - ماتياس كروك)",
     "150 guests, 7 speakers, 1 amazing day": "150 ضيفًا و7 متحدثين ويومًا رائعًا",
-    "about SBOM and CAS integration with AlmaLinux.": "حول تكامل SBOM وCAS مع AlmaLinux.",
+    "about SBOM and immudb integration with AlmaLinux.": "",
     "AlmaLinux-deploy": "نشر AlmaLinux",
     "Expanded Platform Support": "دعم النظام الأساسي الموسع",
     "AlmaLinux OS provides SCAP and SCAP Workbench packages to audit your AlmaLinux system for security compliance alongside OVAL streams.": "يوفر نظام AlmaLinux OS حزم SCAP وSCAP Workbench لمراجعة نظام AlmaLinux الخاص بك من أجل الامتثال الأمني إلى جانب تدفقات OVAL.",

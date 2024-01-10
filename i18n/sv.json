@@ -419,7 +419,7 @@
     "Google Cloud Marketplace": "Google Cloud marknadsplatsen",
     "is available via the Azure Marketplace at the link provided.": "är tillgänglig via Azure Marknadsplatsen på länken som tillhandahålls.",
     "AlmaLinux provides official AlmaLinux OS 8 and AlmaLinux OS 9 images for Vagrant:": "AlmaLinux tillhandahåller officiella AlmaLinux OS 8 och AlmaLinux OS 9 avbilder för Vagrant:",
-    "about SBOM and CAS integration with AlmaLinux.": "om SBOM och CAS integration med AlmaLinux.",
+    "about SBOM and immudb integration with AlmaLinux.": "",
     "AlmaLinux OS provides SCAP and SCAP Workbench packages to audit your AlmaLinux system for security compliance alongside OVAL streams.": "AlmaLinux OS tillhandahåller SCAP och SCAP Workbench-paket för att granska ditt AlmaLinux-system för säkerhetsefterlevnad tillsammans med OVAL-strömmar.",
     "AlmaLinux OS Images are also available via the": "AlmaLinux OS avbilder är också tillgängliga via",
     "It’s recommended to verify the signature of a package before you install it.": "Det rekommenderas att verifiera signaturen för ett paket innan du installerar det.",
