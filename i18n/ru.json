@@ -314,7 +314,7 @@
     "Why should I rely on CloudLinux for a CentOS alternative?": "",
     "Metadata answers questions about how packages evolve between major distribution releases.": "Метаданные отвечают на вопросы о том, как пакеты развиваются между основными выпусками дистрибутива.",
     "Operating system": "",
-    "Build System stores all signatures inside of immudb": "",
+    "The AlmaLinux Build System stores SBOM data inside of immudb": "",
     "established by the Board.": "",
     "System": "",
     "Own and vote on shaping the future of AlmaLinux OS!": "Участвуйте и голосуйте за формирование будущего ОС AlmaLinux!",

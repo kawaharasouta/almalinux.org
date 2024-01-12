@@ -210,7 +210,7 @@
     "How are we doing this?": "",
     "AlmaLinux is leveraging Codenotary’s open source": "",
     "to provide administrators with authentication, verification and full SBOM visibility.": "",
-    "Build System stores all signatures inside of immudb": "",
+    "The AlmaLinux Build System stores SBOM data inside of immudb": "",
     ", the standard for open source for immutable databases, used by some of the world’s leading companies and governments.": "",
     "immudb is protected against tampering.": "",
     "No one can change this data, not AlmaLinux or anyone else.": "",

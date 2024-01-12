@@ -203,7 +203,7 @@
     "It helps identify the contents of software, including what open source and third-party components are used, licensing information, components&#39; versions and if there are any known vulnerabilities in those components.": "",
     "Your company logo on AlmaLinux website in up two sections/categories": "",
     "It wasn't possible--until now.": "",
-    "Build System stores all signatures inside of immudb": "",
+    "The AlmaLinux Build System stores SBOM data inside of immudb": "",
     "Exposure through new Silver member group press releases with social media promotion": "",
     "The service also allows everyone to improve the data by adding new actions or even create a custom dataset for packages from third-party or private repositories.": "",
     "Server specification": "",

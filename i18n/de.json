@@ -245,7 +245,7 @@
     "You can find the tool code here": "Sie können den Code des Werkzeugs hier finden",
     "This looks awesome.": "Das sieht cool aus.",
     "Tracing the whole build process from pulling sources from CentOS git repositories to releasing a verified and signed package in the public repository": "Vom Abrufen der Quellen aus den CentOS-Git-Repositories bis zur Freigabe eines verifizierten und signierten Pakets im öffentlichen Repository kann der gesamte Prozess nachverfolgt werden",
-    "Build System stores all signatures inside of immudb": "",
+    "The AlmaLinux Build System stores SBOM data inside of immudb": "",
     "Membership launch blog announcing your Gold/Platinum membership": "Ankündigung Ihrer Gold- oder Platin-Mitgliedschaft in unserem Blog für neue Mitgliedschaften",
     "Own and vote on shaping the future of AlmaLinux OS!": "Werden Sie Teil von AlmaLinux OS und entscheiden Sie über seine Zukunft!",
     "How are we doing this?": "Wie machen wir das?",

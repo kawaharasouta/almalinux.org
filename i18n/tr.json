@@ -302,7 +302,7 @@
     "Tracing the whole build process from pulling sources from CentOS git repositories to releasing a verified and signed package in the public repository": "CentOS git depolarından kaynak çekmekten, doğrulanmış ve imzalanmış bir paketi genel depoda yayınlamaya kadar tüm oluşturma sürecini izleme",
     "Reducing the number of ways of data corruption": "Veri bozulma yollarının sayısını azaltmak",
     "How are we doing this?": "Bunu nasıl yapıyoruz?",
-    "Build System stores all signatures inside of immudb": "",
+    "The AlmaLinux Build System stores SBOM data inside of immudb": "",
     ", the standard for open source for immutable databases, used by some of the world’s leading companies and governments.": ", dünyanın önde gelen bazı şirketleri ve hükümetleri tarafından kullanılan değişmez veritabanları için açık kaynak standardı.",
     "immudb is protected against tampering.": "",
     "All attestation data is integrity-checked and cryptographically verified by clients.": "",

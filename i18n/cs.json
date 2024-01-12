@@ -143,7 +143,7 @@
     "Email address is not valid": "",
     "Failed to subscribe to mailing list, please try again later": "",
     "You are already subscribed to this mailing list!": "",
-    "Build System stores all signatures inside of immudb": "",
+    "The AlmaLinux Build System stores SBOM data inside of immudb": "",
     "The main objective of the hardware detection test is to ensure the target hardware is properly detected by": "",
     "four sponsored blog posts per year": "čtyři sponzorované příspěvky na blogu ročně",
     "You can find the tool code here:": "",

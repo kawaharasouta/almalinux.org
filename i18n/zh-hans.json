@@ -190,7 +190,7 @@
     "Making the build pipeline more secure like ensuring that only trusted sources are used for builds, avoiding attack consequences, etc": "",
     "Reducing the number of ways of data corruption": "",
     "to provide administrators with authentication, verification and full SBOM visibility.": "",
-    "Build System stores all signatures inside of immudb": "",
+    "The AlmaLinux Build System stores SBOM data inside of immudb": "",
     ", the standard for open source for immutable databases, used by some of the world’s leading companies and governments.": "",
     "immudb is protected against tampering.": "",
     "All attestation data is integrity-checked and cryptographically verified by clients.": "",

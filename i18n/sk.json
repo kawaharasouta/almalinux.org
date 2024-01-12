@@ -175,7 +175,7 @@
     "How are we doing this?": "Ako to robíme?",
     "AlmaLinux is leveraging Codenotary’s open source": "AlmaLinux využíva otvorený zdroj Codenotary",
     "to provide administrators with authentication, verification and full SBOM visibility.": "poskytnúť správcom autentifikáciu, overenie a úplnú viditeľnosť SBOM.",
-    "Build System stores all signatures inside of immudb": "",
+    "The AlmaLinux Build System stores SBOM data inside of immudb": "",
     ", the standard for open source for immutable databases, used by some of the world’s leading companies and governments.": ", štandard pre open source pre nemenné databázy, ktorý používajú niektoré z popredných svetových spoločností a vlád.",
     "immudb is protected against tampering.": "",
     "All attestation data is integrity-checked and cryptographically verified by clients.": "",

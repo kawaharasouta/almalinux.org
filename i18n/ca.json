@@ -255,7 +255,7 @@
     "Making the build pipeline more secure like ensuring that only trusted sources are used for builds, avoiding attack consequences, etc": "Fer que el pipeline de compilació sigui més segur, com assegurar-se que només s'utilitzen fonts de confiança per a les compilacions, evitar conseqüències d'atac, etc.",
     "Reducing the number of ways of data corruption": "Reduint el nombre de formes de corrupció de dades",
     "AlmaLinux is leveraging Codenotary’s open source": "AlmaLinux està aprofitant el codi obert de Codenotary",
-    "Build System stores all signatures inside of immudb": "",
+    "The AlmaLinux Build System stores SBOM data inside of immudb": "",
     "Why are SBOMs important?": "Per què són importants els SBOM?",
     ", the standard for open source for immutable databases, used by some of the world’s leading companies and governments.": ", l'estàndard de codi obert per a bases de dades immutables, utilitzat per algunes de les empreses i governs líders del món.",
     "All attestation data is integrity-checked and cryptographically verified by clients.": "",
